@@ -8,6 +8,6 @@ Contributors (apart from me) include:
 - [Michael Grier](https://github.com/MichaelGrier)
 - [Edvin Lin](https://github.com/MobsofFools)
 - [Daechul (Chris) Lee](https://github.com/pachopa)
-- [Kevin Duong] (https://github.com/kevin-duong)
+- [Kevin Duong](https://github.com/kevin-duong)
 - [Crystal Champion](https://github.com/Nonsensesocks)
 - [Robert Geipel](https://github.com/Geipelr)
